@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link rel="stylesheet" href="./src/Styles/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CrocheArt</title>
+</head>
+
+<body>
+
+<header>
+    <div class="logo">
+        <a href="#" aria-label="Página inicial CrochetArt">CrochetArt</a>
+    </div>
+
+    <nav class="botao-nav">
+        <ul>
+            <li><a class="sobre" href="#">sobre</a></li>
+            <li><a href="https://wa.me/">contato</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section class="hero">
+    <div class="hero-esquerda">
+
+        <h1 class="titulo-section">
+            Crochê Feito Com <span class="amor">Amor</span> e <span class="carinho">Carinho</span>
+        </h1>
+
+        <p class="descricao">
+            cada peça é única. feita à mão com fios de alta qualidade. descubra a beleza do
+            artesanato e transforme sua casa com nossos produtos exclusivos.
+        </p>
+
+        <div class="botoes-hero">
+            <button class="colecao">Ver coleção</button>
+            <button class="Destaque-Produto">Produtos Em Destaque</button>
+        </div>
+
+        <div class="estatisticas">
+            <p><span class="numero-span">500+</span> Produtos</p>
+            <p><span class="numero-span">2k+</span> Clientes Felizes</p>
+            <p><span class="numero-span">100%</span> Artesanal</p>
+            <p>A mais de <span class="experiencia-40-4">4</span><span class="experiencia-40-0">0</span> anos na profissão</p>
+        </div>
+
+    </div>
+
+    <div class="hero-direita">
+        <div class="hero-img">
+            <img src="./src/photos/hero/croche-img.png" alt="imagem referência de crochê">
+        </div>
+
+        <div class="card-avaliacao">
+            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="#FFD700" stroke="#000" stroke-width="1">
+                <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+            </svg>
+            <p><span class="numero">4.9 / 5.0</span></p>
+        </div>
+    </div>
+</section>
+
+<!-- CATEGORIAS -->
+
+<section class="categorias">
+
+    <a href="#" class="card-categorias" data-categoria="jogo-de-banheiro">
+        <img src="./src/photos/cards/Jogo de Banheiro.webp" alt="Jogo de Banheiro">
+        <h3>Jogo de Banheiro</h3>
+    </a>
+
+    <a href="#" class="card-categorias" data-categoria="pano-de-cozinha">
+        <img src="./src/photos/cards/Pano de cozinha.webp" alt="Pano de cozinha">
+        <h3>Pano de Cozinha</h3>
+    </a>
+
+    <a href="#" class="card-categorias" data-categoria="mantas">
+        <img src="./src/photos/cards/Manta Croche.png" alt="Mantas">
+        <h3>Mantas</h3>
+    </a>
+
+    <a href="#" class="card-categorias" data-categoria="tapetes">
+        <img src="./src/photos/cards/Tapete Croche.jpg" alt="Tapetes">
+        <h3>Tapetes</h3>
+    </a>
+
+    <a href="#" class="card-categorias" data-categoria="amigurumi">
+        <img src="./src/photos/cards/Amigurumi Croche.jpg" alt="Amigurumis">
+        <h3>Amigurumis</h3>
+    </a>
+
+    <a href="#" class="card-categorias" data-categoria="bolsas">
+        <img src="./src/photos/cards/Bolsa CC.webp" alt="Bolsas">
+        <h3>Bolsas</h3>
+    </a>
+
+    <a href="#" class="card-categorias" data-categoria="capas">
+        <img src="./src/photos/cards/Capas.jpg" alt="Capas">
+        <h3>Capas</h3>
+    </a>
+
+    <a href="#" class="card-categorias" data-categoria="roupas">
+        <img src="./src/photos/cards/Roupas Croche.jpg" alt="Roupas de Crochê">
+        <h3>Roupas</h3>
+    </a>
+
+</section>
+
+<!-- PRODUTOS (abre quando clica) -->
+
+<section class="produtos" id="produtos">
+    <h2 class="titulo-produtos"></h2>
+    <div class="grid-produtos"></div>
+</section>
+
+<footer>
+    <div class="footer-container">
+
+        <div class="foter-logo">
+            <a href="#">CrocheArt</a>
+        </div>
+
+        <div class="foter-links">
+            <ul>
+                <li><a href="#">Bolsa</a></li>
+                <li><a href="#">Jogo de Cozinha</a></li>
+                <li><a href="#">Amigurumi</a></li>
+                <li><a href="#">Tapete</a></li>
+                <li><a href="#">Capa</a></li>
+                <li><a href="#">Manta</a></li>
+                <li><a href="#">Jogo de Banheiro</a></li>
+            </ul>
+        </div>
+
+        <div class="foter-contato">
+            <a href="https://wa.me/">Contato</a>
+        </div>
+
+        <div class="foter-copy">
+            © 2025 CrochetArt. Todos os direitos reservados.
+        </div>
+
+    </div>
+</footer>
+
+<script src="./src/Scripts/produtos.js"></script>
+<script src="./src/Scripts/Scripts.js"></script>
+
+</body>
+</html>

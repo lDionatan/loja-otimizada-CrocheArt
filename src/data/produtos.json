@@ -1,0 +1,402 @@
+{
+  "jogo-de-banheiro": [
+    {
+      "nome": "Jogo de Banheiro em Crochê",
+      "imagem": "https://images.pexels.com/photos/5264802/pexels-photo-5264802.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Kit Banheiro Artesanal",
+      "imagem": "https://images.pexels.com/photos/5478219/pexels-photo-5478219.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Conjunto de Banheiro Decorativo",
+      "imagem": "https://images.pexels.com/photos/31546148/pexels-photo-31546148.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Jogo de Banheiro em Crochê",
+      "imagem": "https://images.pexels.com/photos/7585566/pexels-photo-7585566.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Kit Banheiro Artesanal",
+      "imagem": "https://images.pexels.com/photos/30053539/pexels-photo-30053539.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Conjunto de Banheiro Decorativo",
+      "imagem": "https://images.pexels.com/photos/7297165/pexels-photo-7297165.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Jogo de Banheiro em Crochê",
+      "imagem": "https://images.pexels.com/photos/19189819/pexels-photo-19189819.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Kit Banheiro Artesanal",
+      "imagem": "https://images.pexels.com/photos/28125265/pexels-photo-28125265.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Conjunto de Banheiro Decorativo",
+      "imagem": "https://images.pexels.com/photos/36644649/pexels-photo-36644649.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Jogo de Banheiro em Crochê",
+      "imagem": "https://images.pexels.com/photos/7585570/pexels-photo-7585570.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Kit Banheiro Artesanal",
+      "imagem": "https://images.pexels.com/photos/12859723/pexels-photo-12859723.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Conjunto de Banheiro Decorativo",
+      "imagem": "https://images.pexels.com/photos/36740524/pexels-photo-36740524.jpeg?auto=compress&cs=tinysrgb&h=350"
+    }
+  ],
+  "pano-de-cozinha": [
+    {
+      "nome": "Pano de Cozinha em Crochê",
+      "imagem": "https://images.pexels.com/photos/31428913/pexels-photo-31428913.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Pano Decorativo de Crochê",
+      "imagem": "https://images.pexels.com/photos/5709952/pexels-photo-5709952.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Pano de Cozinha Artesanal",
+      "imagem": "https://images.pexels.com/photos/34886612/pexels-photo-34886612.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Pano de Prato em Crochê",
+      "imagem": "https://images.pexels.com/photos/12673794/pexels-photo-12673794.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Pano de Cozinha em Crochê",
+      "imagem": "https://images.pexels.com/photos/4794879/pexels-photo-4794879.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Pano Decorativo de Crochê",
+      "imagem": "https://images.pexels.com/photos/4794874/pexels-photo-4794874.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Pano de Cozinha Artesanal",
+      "imagem": "https://images.pexels.com/photos/4805226/pexels-photo-4805226.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Pano de Prato em Crochê",
+      "imagem": "https://images.pexels.com/photos/14739181/pexels-photo-14739181.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Pano de Cozinha em Crochê",
+      "imagem": "https://images.pexels.com/photos/4794877/pexels-photo-4794877.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Pano Decorativo de Crochê",
+      "imagem": "https://images.pexels.com/photos/11942039/pexels-photo-11942039.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Pano de Cozinha Artesanal",
+      "imagem": "https://images.pexels.com/photos/4805223/pexels-photo-4805223.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Pano de Prato em Crochê",
+      "imagem": "https://images.pexels.com/photos/4794882/pexels-photo-4794882.jpeg?auto=compress&cs=tinysrgb&h=350"
+    }
+  ],
+  "mantas": [
+    {
+      "nome": "Manta de Crochê Aconchegante",
+      "imagem": "https://images.pexels.com/photos/34306280/pexels-photo-34306280.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Manta Artesanal",
+      "imagem": "https://images.pexels.com/photos/6463349/pexels-photo-6463349.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Manta Decorativa",
+      "imagem": "https://images.pexels.com/photos/5806980/pexels-photo-5806980.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Manta em Crochê Premium",
+      "imagem": "https://images.pexels.com/photos/30373114/pexels-photo-30373114.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Manta de Crochê Aconchegante",
+      "imagem": "https://images.pexels.com/photos/30036957/pexels-photo-30036957.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Manta Artesanal",
+      "imagem": "https://images.pexels.com/photos/6216236/pexels-photo-6216236.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Manta Decorativa",
+      "imagem": "https://images.pexels.com/photos/5806998/pexels-photo-5806998.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Manta em Crochê Premium",
+      "imagem": "https://images.pexels.com/photos/10715796/pexels-photo-10715796.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Manta de Crochê Aconchegante",
+      "imagem": "https://images.pexels.com/photos/19522181/pexels-photo-19522181.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Manta Artesanal",
+      "imagem": "https://images.pexels.com/photos/10358023/pexels-photo-10358023.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Manta Decorativa",
+      "imagem": "https://images.pexels.com/photos/5709784/pexels-photo-5709784.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Manta em Crochê Premium",
+      "imagem": "https://images.pexels.com/photos/5806996/pexels-photo-5806996.jpeg?auto=compress&cs=tinysrgb&h=350"
+    }
+  ],
+  "tapetes": [
+    {
+      "nome": "Tapete de Crochê Floral",
+      "imagem": "https://images.pexels.com/photos/10964053/pexels-photo-10964053.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Tapete Redondo em Crochê",
+      "imagem": "https://images.pexels.com/photos/10964051/pexels-photo-10964051.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Tapete Artesanal",
+      "imagem": "https://images.pexels.com/photos/10964019/pexels-photo-10964019.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Tapete Decorativo",
+      "imagem": "https://images.pexels.com/photos/10964021/pexels-photo-10964021.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Tapete de Crochê Floral",
+      "imagem": "https://images.pexels.com/photos/19704409/pexels-photo-19704409.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Tapete Redondo em Crochê",
+      "imagem": "https://images.pexels.com/photos/10715796/pexels-photo-10715796.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Tapete Artesanal",
+      "imagem": "https://images.pexels.com/photos/11015953/pexels-photo-11015953.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Tapete Decorativo",
+      "imagem": "https://images.pexels.com/photos/19704443/pexels-photo-19704443.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Tapete de Crochê Floral",
+      "imagem": "https://images.pexels.com/photos/10964018/pexels-photo-10964018.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Tapete Redondo em Crochê",
+      "imagem": "https://images.pexels.com/photos/10964016/pexels-photo-10964016.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Tapete Artesanal",
+      "imagem": "https://images.pexels.com/photos/10964020/pexels-photo-10964020.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Tapete Decorativo",
+      "imagem": "https://images.pexels.com/photos/5807027/pexels-photo-5807027.jpeg?auto=compress&cs=tinysrgb&h=350"
+    }
+  ],
+  "amigurumi": [
+    {
+      "nome": "Amigurumi Decorativo",
+      "imagem": "https://images.pexels.com/photos/2731820/pexels-photo-2731820.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Boneco Amigurumi",
+      "imagem": "https://images.pexels.com/photos/10585168/pexels-photo-10585168.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Amigurumi Artesanal",
+      "imagem": "https://images.pexels.com/photos/17864124/pexels-photo-17864124.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Personagem em Crochê",
+      "imagem": "https://images.pexels.com/photos/34970137/pexels-photo-34970137.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Amigurumi Decorativo",
+      "imagem": "https://images.pexels.com/photos/34276455/pexels-photo-34276455.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Boneco Amigurumi",
+      "imagem": "https://images.pexels.com/photos/16178995/pexels-photo-16178995.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Amigurumi Artesanal",
+      "imagem": "https://images.pexels.com/photos/16228973/pexels-photo-16228973.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Personagem em Crochê",
+      "imagem": "https://images.pexels.com/photos/5736535/pexels-photo-5736535.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Amigurumi Decorativo",
+      "imagem": "https://images.pexels.com/photos/10585164/pexels-photo-10585164.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Boneco Amigurumi",
+      "imagem": "https://images.pexels.com/photos/10838931/pexels-photo-10838931.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Amigurumi Artesanal",
+      "imagem": "https://images.pexels.com/photos/17758247/pexels-photo-17758247.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Personagem em Crochê",
+      "imagem": "https://images.pexels.com/photos/12109904/pexels-photo-12109904.jpeg?auto=compress&cs=tinysrgb&h=350"
+    }
+  ],
+  "bolsas": [
+    {
+      "nome": "Bolsa de Crochê Elegante",
+      "imagem": "https://images.pexels.com/photos/30224894/pexels-photo-30224894.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Bolsa Artesanal",
+      "imagem": "https://images.pexels.com/photos/8221775/pexels-photo-8221775.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Bolsa de Ombro em Crochê",
+      "imagem": "https://images.pexels.com/photos/33853684/pexels-photo-33853684.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Bolsa de Crochê Elegante",
+      "imagem": "https://images.pexels.com/photos/11146485/pexels-photo-11146485.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Bolsa Artesanal",
+      "imagem": "https://images.pexels.com/photos/10820408/pexels-photo-10820408.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Bolsa de Ombro em Crochê",
+      "imagem": "https://images.pexels.com/photos/33853676/pexels-photo-33853676.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Bolsa de Crochê Elegante",
+      "imagem": "https://images.pexels.com/photos/6654139/pexels-photo-6654139.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Bolsa Artesanal",
+      "imagem": "https://images.pexels.com/photos/31702347/pexels-photo-31702347.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Bolsa de Ombro em Crochê",
+      "imagem": "https://images.pexels.com/photos/9736984/pexels-photo-9736984.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Bolsa de Crochê Elegante",
+      "imagem": "https://images.pexels.com/photos/33853683/pexels-photo-33853683.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Bolsa Artesanal",
+      "imagem": "https://images.pexels.com/photos/33207480/pexels-photo-33207480.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Bolsa de Ombro em Crochê",
+      "imagem": "https://images.pexels.com/photos/33853675/pexels-photo-33853675.jpeg?auto=compress&cs=tinysrgb&h=350"
+    }
+  ],
+  "capas": [
+    {
+      "nome": "Capa de Crochê para Almofada",
+      "imagem": "https://images.pexels.com/photos/32452333/pexels-photo-32452333.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Capa Decorativa",
+      "imagem": "https://images.pexels.com/photos/30132443/pexels-photo-30132443.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Capa Artesanal",
+      "imagem": "https://images.pexels.com/photos/32452334/pexels-photo-32452334.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Capa em Crochê",
+      "imagem": "https://images.pexels.com/photos/15040446/pexels-photo-15040446.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Capa de Crochê para Almofada",
+      "imagem": "https://images.pexels.com/photos/30053539/pexels-photo-30053539.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Capa Decorativa",
+      "imagem": "https://images.pexels.com/photos/10964021/pexels-photo-10964021.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Capa Artesanal",
+      "imagem": "https://images.pexels.com/photos/28125265/pexels-photo-28125265.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Capa em Crochê",
+      "imagem": "https://images.pexels.com/photos/7585566/pexels-photo-7585566.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Capa de Crochê para Almofada",
+      "imagem": "https://images.pexels.com/photos/7585570/pexels-photo-7585570.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Capa Decorativa",
+      "imagem": "https://images.pexels.com/photos/36238478/pexels-photo-36238478.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Capa Artesanal",
+      "imagem": "https://images.pexels.com/photos/7585792/pexels-photo-7585792.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Capa em Crochê",
+      "imagem": "https://images.pexels.com/photos/29889875/pexels-photo-29889875.jpeg?auto=compress&cs=tinysrgb&h=350"
+    }
+  ],
+  "roupas": [
+    {
+      "nome": "Blusa de Crochê",
+      "imagem": "https://images.pexels.com/photos/36657253/pexels-photo-36657253.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Vestido de Crochê",
+      "imagem": "https://images.pexels.com/photos/31546148/pexels-photo-31546148.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Roupa Artesanal",
+      "imagem": "https://images.pexels.com/photos/35210660/pexels-photo-35210660.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Peça em Crochê Exclusiva",
+      "imagem": "https://images.pexels.com/photos/30723800/pexels-photo-30723800.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Blusa de Crochê",
+      "imagem": "https://images.pexels.com/photos/32987190/pexels-photo-32987190.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Vestido de Crochê",
+      "imagem": "https://images.pexels.com/photos/15040446/pexels-photo-15040446.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Roupa Artesanal",
+      "imagem": "https://images.pexels.com/photos/33231181/pexels-photo-33231181.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Peça em Crochê Exclusiva",
+      "imagem": "https://images.pexels.com/photos/30723808/pexels-photo-30723808.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Blusa de Crochê",
+      "imagem": "https://images.pexels.com/photos/33231320/pexels-photo-33231320.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Vestido de Crochê",
+      "imagem": "https://images.pexels.com/photos/34679603/pexels-photo-34679603.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Roupa Artesanal",
+      "imagem": "https://images.pexels.com/photos/31039663/pexels-photo-31039663.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "nome": "Peça em Crochê Exclusiva",
+      "imagem": "https://images.pexels.com/photos/10602287/pexels-photo-10602287.jpeg?auto=compress&cs=tinysrgb&h=350"
+    }
+  ]
+}

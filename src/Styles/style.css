@@ -1,0 +1,358 @@
+:root {
+    --cor-primaria: #E91E63;
+    --cor-secundaria: #c73ee9;
+    --cor-terciaria: #7d1098;
+    --cor-fundo: #ffffff;
+    --sombra-card: 0 8px 20px rgba(0,0,0,0.08);
+    --transicao: 0.25s ease;
+}
+
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+/* BODY */
+body{
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to bottom, #fff, #c053f3, #c053f3, #d6a1ee);
+}
+
+/* HEADER */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.logo a{
+    color: #de72f3;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+nav.botao-nav ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+/* HERO */
+section.hero{
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    gap: 2rem;
+    background: #fff;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
+
+.hero-esquerda{
+    flex: 1;
+}
+
+.hero-direita{
+    flex: 1;
+    position: relative;
+}
+
+.titulo-section{
+    font-size: 4rem;
+    font-weight: 500;
+    line-height: 1.4;
+    margin-bottom: 1rem;
+}
+
+.titulo-section .amor{
+    color: var(--cor-primaria);
+}
+
+.titulo-section .carinho{
+    color: #9C27B0;
+}
+
+.descricao{
+    max-width: 520px;
+}
+
+.botoes-hero{
+    display: flex;
+    gap: 1rem;
+    margin: 1.5rem 0;
+}
+
+.botoes-hero button{
+    cursor: pointer;
+}
+
+.colecao{
+    background: var(--cor-primaria);
+    color: white;
+    border: none;
+    padding: 0.8rem 1.2rem;
+    border-radius: 8px;
+    font-size: 1rem;
+    transition: var(--transicao);
+}
+
+.colecao:hover{
+    background: white;
+    color: var(--cor-primaria);
+    border: 1px solid var(--cor-primaria);
+    transform: scale(1.05);
+}
+
+.Destaque-Produto{
+    background: transparent;
+    border: 1px solid var(--cor-terciaria);
+    color: var(--cor-secundaria);
+    padding: 0.8rem 1.2rem;
+    border-radius: 8px;
+}
+
+.Destaque-Produto:hover{
+    background: var(--cor-secundaria);
+    color: white;
+}
+
+/* ESTATISTICAS */
+.estatisticas{
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.numero-span{
+    font-size: 2rem;
+}
+
+.experiencia-40-4{
+    color: var(--cor-primaria);
+    font-size: 2rem;
+}
+
+.experiencia-40-0{
+    color: var(--cor-terciaria);
+    font-size: 2rem;
+}
+
+/* HERO IMG */
+.hero-img{
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+.hero-img img{
+    width: 100%;
+    height: 29rem;
+    object-fit: cover;
+}
+
+/* CARD AVALIAÇÃO */
+.card-avaliacao{
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* CATEGORIAS */
+section.categorias{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+    padding: 2rem;
+    margin: 25px 0;
+}
+
+/* CARD */
+.card-categorias{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 20px;
+    background: rgba(255,255,255,0.08);
+    box-shadow: var(--sombra-card);
+    transition: var(--transicao);
+    min-height: 260px;
+    cursor: pointer;
+}
+
+/* HOVER */
+.card-categorias:hover{
+    transform: translateY(-6px);
+    box-shadow: 0 10px 25px rgba(233,30,99,0.3);
+}
+
+/* IMAGEM */
+.card-categorias img{
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+/* TITULO */
+.card-categorias h3{
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+}
+
+/* ANIMAÇÃO ATIVA */
+.card-categorias.ativo{
+    transform: translateY(-20px) scale(1.05);
+}
+
+/* CATEGORIA SELECIONADA */
+.card-categorias.selecionado{
+    outline: 3px solid var(--cor-primaria);
+    transform: scale(1.04);
+}
+
+/* PRODUTOS json*/
+.produtos{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 25px;
+    padding: 2rem;
+    animation: aparecer 0.4s ease;
+}
+
+
+.produto-card{
+    background: white;
+    border-radius: 16px;
+    padding: 10px;
+    margin-top: 25px;
+    box-shadow: var(--sombra-card);
+    transition: var(--transicao);
+}
+
+.produto-card:hover{
+    transform: translateY(-5px);
+}
+
+.produto-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.produtos h2{
+    display: flex;
+    width: 215px;
+    height: 37px;
+    color: var(--cor-fundo);
+    line-height: 100px;
+
+}
+
+/* FOOTER */
+footer{
+    background: white;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    padding: 2rem 0;
+}
+
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.foter-logo{
+    font-size: 40px;
+    color: var(--cor-primaria);
+}
+
+.foter-links ul{
+    list-style: none;
+    text-align: center;
+}
+
+.foter-contato{
+    margin-top: 15px;
+}
+
+.foter-copy{
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
+
+/* ACESSIBILIDADE */
+a:focus,
+button:focus{
+   outline-offset: 2px;
+}
+
+/* ANIMAÇÃO */
+@keyframes aparecer{
+    from{
+        opacity: 0;
+        transform: translateY(15px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* RESPONSIVO */
+@media (max-width: 1100px){
+    section.categorias{
+        grid-template-columns: repeat(3,1fr);
+    }
+}
+
+@media (max-width: 800px){
+    section.hero{
+        flex-direction: column;
+    }
+
+    section.categorias{
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    .produtos{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
+@media (max-width: 500px){
+    section.categorias{
+        grid-template-columns: 1fr;
+    }
+
+    .produtos{
+        grid-template-columns: 1fr;
+    }
+}
+
+.botao-whats{
+    display: block;
+    margin-top: 10px;
+    background: #25D366;
+    color: white;
+    padding: 8px;
+    border-radius: 15px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.botao-whats:hover{
+    background: #1ebe5d;
+}

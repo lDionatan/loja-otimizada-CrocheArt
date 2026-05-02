@@ -11,7 +11,7 @@ let bancoProdutos = {};
 
 // carregar produtos do JSON
 async function carregarBanco() {
-    const resposta = await fetch("./src/data/produtos.json");
+    const resposta = await fetch("/produtos/produtos.json");
     bancoProdutos = await resposta.json();
 }
 
